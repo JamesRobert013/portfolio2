@@ -53,7 +53,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "deploy:storybook": "gh-pages -d build-storybook",
-    "deploy:functions": "cd functions && npm run deploy",
+    // "deploy:functions": "cd functions && npm run deploy",
     // "deploy": "aws s3 sync --delete build/ s3://hamish-portfolio-site",
     // "deploy:storybook": "aws s3 sync --delete build-storybook s3://hamish-portfolio-storybook",
     // "deploy:functions": "cd functions && npm run deploy",
