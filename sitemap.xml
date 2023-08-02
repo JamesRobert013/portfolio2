@@ -1,38 +1,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//</loc>
+    <loc>https://jamesrobert013.github.io//</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//articles/</loc>
+    <loc>https://jamesrobert013.github.io//articles/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//contact/</loc>
+    <loc>https://jamesrobert013.github.io//contact/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//uses/</loc>
+    <loc>https://jamesrobert013.github.io//uses/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//projects/slice/</loc>
+    <loc>https://jamesrobert013.github.io//projects/slice/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//projects/smart-sparrow/</loc>
+    <loc>https://jamesrobert013.github.io//projects/smart-sparrow/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//projects/volkihar-knight/</loc>
+    <loc>https://jamesrobert013.github.io//projects/volkihar-knight/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//articles/hello-world</loc>
+    <loc>https://jamesrobert013.github.io//articles/hello-world</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://jamesrobert013.github.io/portfolio2//articles/modern-styling-in-react</loc>
+    <loc>https://jamesrobert013.github.io//articles/modern-styling-in-react</loc>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
