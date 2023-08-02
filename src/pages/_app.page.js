@@ -27,7 +27,7 @@ const App = ({ Component, pageProps }) => {
   const [storedTheme] = useLocalStorage('theme', 'dark');
   const [state, dispatch] = useReducer(reducer, initialState);
   const { route, asPath } = useRouter();
-  const canonicalRoute = route === '/' ? '' : `${asPath}`;
+  const canonicalRoute = route === '/portfolio2/' ? '' : `${asPath}`;
   useFoucFix();
 
   useEffect(() => {
