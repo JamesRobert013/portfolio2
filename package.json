@@ -47,13 +47,11 @@
     "three-stdlib": "^2.18.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build && next export -o build/",
     "build:storybook": "build-storybook -o build-storybook && node scripts/draco-storybook",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "deploy:storybook": "gh-pages -d build-storybook",
-    "deploy:functions": "cd functions && npm run deploy",
     "start": "next start",
     "test": "echo 'write some tests'",
     "storybook": "start-storybook -p 9009 -h localhost"
