@@ -1,10 +1,10 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
+  "homepage": "https://JamesRobert013.github.io/portfolio2",
+  "description": "Portfolio site for David Ryan Synnott",
   "repository": "https://github.com/JamesRobert013",
-  "author": "Hamish Williams <hello@hamishw.com>",
+  "author": "David Ryan Synnott <bluedreambd013@gmail.com>",
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.8.0",
     "@storybook/addon-a11y": "^6.5.10",
@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "framer-motion": "^7.1.0",
+    "gh-pages": "^5.0.0",
     "mdx-bundler": "^9.0.1",
     "next": "^12.2.5",
     "react": "^18.2.0",
